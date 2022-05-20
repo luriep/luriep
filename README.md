@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luriep
-- 👀 I’m a geek interested in all things technical. 
+- 👀 I’m interested in all things technical. 
 - 🌱 I’m currently learning GitHub
 - 📫 best to reach me by email at pete  <at> luriep dot com or at this same alias on twitter
 
